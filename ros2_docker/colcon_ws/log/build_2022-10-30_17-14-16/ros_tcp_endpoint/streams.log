@@ -1,0 +1,69 @@
+[0.561s] Invoking command in '/home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/src/ROS-TCP-Endpoint': PYTHONPATH=/home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_tcp_endpoint build --build-base /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build install --prefix /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint --record /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/install.log --single-version-externally-managed
+[0.698s] running egg_info
+[0.699s] creating ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info
+[0.699s] writing ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/PKG-INFO
+[0.699s] writing dependency_links to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/dependency_links.txt
+[0.699s] writing entry points to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/entry_points.txt
+[0.699s] writing requirements to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/requires.txt
+[0.699s] writing top-level names to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/top_level.txt
+[0.700s] writing manifest file '../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[0.723s] reading manifest file '../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[0.723s] writing manifest file '../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[0.723s] running build
+[0.723s] running build_py
+[0.723s] creating /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build
+[0.723s] creating /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib
+[0.724s] creating /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.724s] copying ros_tcp_endpoint/subscriber.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.724s] copying ros_tcp_endpoint/unity_service.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.724s] copying ros_tcp_endpoint/thread_pauser.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.724s] copying ros_tcp_endpoint/service.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.725s] copying ros_tcp_endpoint/server.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.725s] copying ros_tcp_endpoint/publisher.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.725s] copying ros_tcp_endpoint/tcp_sender.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.725s] copying ros_tcp_endpoint/client.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.725s] copying ros_tcp_endpoint/__init__.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.726s] copying ros_tcp_endpoint/default_server_endpoint.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.726s] copying ros_tcp_endpoint/exceptions.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.726s] copying ros_tcp_endpoint/communication.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint
+[0.726s] running install
+[0.727s] running install_lib
+[0.727s] creating /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.727s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/subscriber.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.727s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/unity_service.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.727s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/thread_pauser.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.728s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/service.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.728s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/server.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.728s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/publisher.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.728s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/tcp_sender.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.728s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/client.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.728s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/__init__.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.728s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/default_server_endpoint.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.728s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/exceptions.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.728s] copying /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build/lib/ros_tcp_endpoint/communication.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint
+[0.728s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/subscriber.py to subscriber.cpython-38.pyc
+[0.729s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/unity_service.py to unity_service.cpython-38.pyc
+[0.729s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/thread_pauser.py to thread_pauser.cpython-38.pyc
+[0.729s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/service.py to service.cpython-38.pyc
+[0.729s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/server.py to server.cpython-38.pyc
+[0.729s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/publisher.py to publisher.cpython-38.pyc
+[0.730s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/tcp_sender.py to tcp_sender.cpython-38.pyc
+[0.731s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/client.py to client.cpython-38.pyc
+[0.731s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/__init__.py to __init__.cpython-38.pyc
+[0.731s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/default_server_endpoint.py to default_server_endpoint.cpython-38.pyc
+[0.731s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/exceptions.py to exceptions.cpython-38.pyc
+[0.731s] byte-compiling /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint/communication.py to communication.cpython-38.pyc
+[0.731s] running install_data
+[0.732s] creating /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/share/ament_index
+[0.732s] creating /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/share/ament_index/resource_index
+[0.732s] creating /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/share/ament_index/resource_index/packages
+[0.732s] copying resource/ros_tcp_endpoint -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/share/ament_index/resource_index/packages
+[0.733s] copying package.xml -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/share/ros_tcp_endpoint
+[0.734s] creating /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/share/ros_tcp_endpoint/launch
+[0.734s] copying launch/endpoint.py -> /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/share/ros_tcp_endpoint/launch
+[0.734s] running install_egg_info
+[0.734s] Copying ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info to /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint-0.0.1-py3.8.egg-info
+[0.734s] running install_scripts
+[0.743s] Installing default_server_endpoint script to /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/ros_tcp_endpoint
+[0.743s] writing list of installed files to '/home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/install.log'
+[0.756s] Invoked command in '/home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/src/ROS-TCP-Endpoint' returned '0': PYTHONPATH=/home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_tcp_endpoint build --build-base /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/build install --prefix /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/install/ros_tcp_endpoint --record /home/dinithi/UnityProjects/Robotics-Nav2-SLAM-Example-main/ros2_docker/colcon_ws/build/ros_tcp_endpoint/install.log --single-version-externally-managed
