@@ -1,7 +1,8 @@
 # Tag IR Simulator
 
-CS269
+
 Dinithi Silva
+Dartmouth College - Robotics Reality Lab
 
 This project is built on the demo Unity ROS project as it provides all of the necessary libraries and components to use ROS with Unity. Please refer to README-Original for more information about that base project.
 
