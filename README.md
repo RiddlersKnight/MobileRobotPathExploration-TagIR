@@ -42,3 +42,7 @@ Near the start of a run
 ![Near the end of a run](/readmes/TagIR_images/TagIRSimEnd.gif "Near the end of a run")
 
 Near the end of a run
+
+![Talking to a tag](/readmes/TagIR_images/TagIRSimTalkToTag.gif "Talking to a tag")
+
+Robot finishing talking to a tag and leaving to its next destination
